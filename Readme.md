@@ -1,2 +1,2 @@
-# Kirsten Marklye
+# April Sweet
 ## Responsive Design Lesson Starter Files
